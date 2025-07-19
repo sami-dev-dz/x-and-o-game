@@ -19,5 +19,17 @@ Un jeu **Tic Tac Toe (X et O)** interactif et moderne développé avec **HTML**,
 - 🔁 Bouton pour recommencer une partie
 
 ---
+## 📁 Project Structure
 
-## 📁 Structure du projet
+```
+x-and-o-game/
+│
+├── x-and-o.html              # Main HTML file
+├── css/
+│   └── x-and-o.css           # CSS styling
+├── js/
+│   └── x-and-o.js            # Game logic
+├── image/
+│   └── screenshot.png        # UI screenshot
+└── README.md                 # Project documentation
+```
