@@ -22,14 +22,16 @@ Un jeu **Tic Tac Toe (X et O)** interactif et moderne développé avec **HTML**,
 ## 📁 Project Structure
 
 ```
+```
 x-and-o-game/
 │
-├── x-and-o.html              # Main HTML file
+├── x-and-o-game.html         # Main HTML file
 ├── css/
-│   └── x-and-o.css           # CSS styling
+│   └── x-and-o-game.css      # CSS styling
 ├── js/
-│   └── x-and-o.js            # Game logic
+│   └── x-and-o-game.js       # Game logic
 ├── image/
-│   └── screenshot.png        # UI screenshot
+│   └── screenshot.png        # App screenshot
 └── README.md                 # Project documentation
+```
 ```
